@@ -13,7 +13,7 @@
 
 
 # Преобразования изображения в txt-файл
-Читать на других языках: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Читать на других языках: [Русский](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
 
 
 ## Как это работает?
@@ -57,9 +57,24 @@ $ python3 img_to_txt.py [file/url] [size]
 $ python3 img_to_txt_rus.py https://i.postimg.cc/t4Cmn7wC/py.png
 ```
 Выполнив эту команду, вы получите файл в текущей папке 'texts' с именем `out.txt`, и вы увидите вывод строки в консоли:
+
 <img src="./pictures/py.png" alt="Bot logo" width="300" height="356.5">
 
 <img src="./pictures/png.png" alt="Bot logo" width="600" height="600">
+
+
+## Программа преобразования видео в текст
+Принцип аналагичный, за исключением того, что итогового текстового файла не существует
+
+```commandline
+cd C:\Users\root\PycharmProjects\image_to_ascii  # переходим в дирректорию со скриптом
+python video_to_txt_rus.py animations\filin.gif 150  # запускаем скрипт
+```
+
+<img src="./animations/filin.gif" alt="Bot logo" width="800" height="600">
+
+<img src="./animations/gif.gif" alt="Bot logo" width="800" height="600">
+
 
 
 ### Лицензия
