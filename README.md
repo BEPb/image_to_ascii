@@ -41,7 +41,7 @@ $ pip3 install -r requirements.txt
 * general form of program launch：
 
 ```shell
-$ python3 img_to_txt.py [file/url] [size]
+$ python3 img_to_txt_rus.py [file/url] [size]
 ```
 
 * arguments:
@@ -53,7 +53,7 @@ $ python3 img_to_txt.py [file/url] [size]
 
 ### Example
 ```shell
-$ python3 img_to_txt_rus.py https://i.postimg.cc/t4Cmn7wC/py.png
+$ python3 img_to_txt.py https://i.postimg.cc/t4Cmn7wC/py.png
 ```
 By executing this command, you will get a file in the current 'texts' folder named `out.txt` and you will see the output of the line in the console:
 
@@ -68,7 +68,7 @@ The principle is similar, except that the resulting text file does not exist.
 
 ```commandline
 cd C:\Users\root\PycharmProjects\image_to_ascii 
-python video_to_txt_rus.py animations\filin.gif 150
+python video_to_txt.py animations\filin.gif 150
 ```
 
 <img src="./animations/filin.gif" alt="Bot logo" width="800" height="600">

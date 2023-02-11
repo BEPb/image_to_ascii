@@ -42,7 +42,7 @@ $ pip3 install -r requirements.txt
 * общая форма запуска программы：
 
 ```shell
-$ python3 img_to_txt.py [file/url] [size]
+$ python3 img_to_txt_rus.py [file/url] [size]
 ```
 
 * аргументы:
