@@ -78,4 +78,4 @@ python video_to_txt_rus.py animations\filin.gif 150  # запускаем скр
 
 
 ### Лицензия
-MIT lience
+[MIT licence](LICENSE)

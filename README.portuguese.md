@@ -79,4 +79,4 @@ python video_to_txt.py animations\filin.gif 150
 
 
 ### Licença
-Licença MIT
+[Licença MIT](LICENSE)
