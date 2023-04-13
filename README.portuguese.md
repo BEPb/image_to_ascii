@@ -12,18 +12,18 @@
 </p>
 
 
-# Converting an image to a .txt file
-Read in other languages: [Русский](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
+# Convertendo uma imagem para um arquivo de texto
+Leia em outros idiomas: [Русский](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [English](README.md)
 
-## How it works?
+## Como funciona
 
-Everything is very simple: you either download a picture file or specify its link when running a python script, and
-output you get a text file, and you can immediately view on the command line how it will look
-the result of your conversion.
+Tudo é muito simples: você baixa um arquivo de imagem ou especifica seu link ao executar um script python e
+saída, você obtém um arquivo de texto e pode visualizar imediatamente na linha de comando como ele ficará
+o resultado da sua conversão.
 
-## Procedure for preparing and working with the bot
+## Processo para preparar e trabalhar com o bot
 
-* Clone the repository or download the archive from github or using the following commands on the command line
+* Clone o repositório ou baixe o arquivo do GitHub ou use os seguintes comandos na linha de comando
 
    ```commandline
    $ cmd
@@ -31,31 +31,32 @@ the result of your conversion.
    $ cd image_to_ascii
    ```
 
-### Applying the repository
-* Install dependencies from a file, for this, enter the following code in the command line：
+### Aplicando o repositório
+* Instale as dependências de um arquivo, para isto, insira o seguinte código na linha de comando:
 
 ```shell
 $ pip3 install -r requirements.txt
 ````
 
-* general form of program launch：
+* Meio geral de inicializar o programa
 
 ```shell
 $ python3 img_to_txt_rus.py [file/url] [size]
 ```
 
-* arguments:
+* Argumentos:
 
 ```shell
-[file/url]: Local file path or online image URL.
-[size]: The width of the output txt image in characters - an integer, The larger the size, the clearer the picture.
+[file/url]: Arquivo local ou uma URL de imagem online.
+[size]: A largura do texto de saída em caracteres - um número inteiro, Quanto maior o tamanho, mais clara a imagem.
 ```
 
-### Example
+### Exemplo
 ```shell
 $ python3 img_to_txt.py https://i.postimg.cc/t4Cmn7wC/py.png
 ```
-By executing this command, you will get a file in the current 'texts' folder named `out.txt` and you will see the output of the line in the console:
+
+Ao executar este comando, você receberá um arquivo na atual pasta 'texts' chamado `out.txt` e você verá a saída no console:
 
 
 <img src="./pictures/py.png" alt="Bot logo" width="300" height="356.5">
@@ -63,8 +64,8 @@ By executing this command, you will get a file in the current 'texts' folder nam
 <img src="./pictures/png.png" alt="Bot logo" width="600" height="600">
 
 
-## Video to Text Converter
-The principle is similar, except that the resulting text file does not exist.
+## Conversor de vído para texto
+O princípio é similar, exceto que o arquivo de texto resultante não existe. 
 
 ```commandline
 cd C:\Users\root\PycharmProjects\image_to_ascii 
@@ -77,5 +78,5 @@ python video_to_txt.py animations\filin.gif 150
 
 
 
-### License
-MIT lience
+### Licença
+Licença MIT

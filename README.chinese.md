@@ -13,7 +13,7 @@
 
 
 # 将图像转换为 .txt 文件
-Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
 
 ## 怎么运行的？
 

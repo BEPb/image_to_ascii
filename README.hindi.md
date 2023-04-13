@@ -13,7 +13,7 @@
 
 
 # एक छवि को एक .txt फ़ाइल में कनवर्ट करना
-Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
 
 ## यह काम किस प्रकार करता है?
 
