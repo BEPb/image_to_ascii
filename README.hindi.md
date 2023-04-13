@@ -13,7 +13,7 @@
 
 
 # एक छवि को एक .txt फ़ाइल में कनवर्ट करना
-Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
+Read in other languages: [English](README.md), [Русский](README.ru.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
 
 ## यह काम किस प्रकार करता है?
 
@@ -47,8 +47,8 @@ $ python3 img_to_txt_rus.py [file/url] [size]
 * तर्क:
 
 ```shell
-[फ़ाइल/url]: स्थानीय फ़ाइल पथ या ऑनलाइन छवि URL।
-[आकार]: वर्णों में आउटपुट txt छवि की चौड़ाई - एक पूर्णांक, आकार जितना बड़ा होगा, चित्र उतना ही स्पष्ट होगा।
+[file/url]: स्थानीय फ़ाइल पथ या ऑनलाइन छवि URL।
+[size]: वर्णों में आउटपुट txt छवि की चौड़ाई - एक पूर्णांक, आकार जितना बड़ा होगा, चित्र उतना ही स्पष्ट होगा।
 ```
 
 ### उदाहरण
