@@ -13,7 +13,7 @@
 
 
 # 将图像转换为 .txt 文件
-Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [Português](README.portuguese.md), [Русский](README.ru.md)
 
 ## 怎么运行的？
 
@@ -77,4 +77,4 @@ python video_to_txt.py animations\filin.gif 150
 
 
 ### License
-MIT lience
+[MIT licence](LICENSE)

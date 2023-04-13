@@ -13,7 +13,7 @@
 
 
 # Преобразования изображения в txt-файл
-Читать на других языках: [Русский](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Читать на других языках: [English](README.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md), [Português](README.portuguese.md)
 
 
 ## Как это работает?
@@ -78,4 +78,4 @@ python video_to_txt_rus.py animations\filin.gif 150  # запускаем скр
 
 
 ### Лицензия
-MIT lience
+[MIT licence](LICENSE)
